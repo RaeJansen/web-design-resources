@@ -1,8 +1,8 @@
 # Web Design & Development Resource Masterlist
 
-## Web Development
+## 💻 Web Development
 
-### Industry News & Professional Growth
+### 📰 Industry News & Professional Growth
 
 - [**TL;DR Newsletter**](https://tldr.tech/) _(Free • Newsletter)_  
   Short summaries of current tech news and tools.
@@ -10,7 +10,7 @@
 - [**Tech Wednesdays (LUMA)**](https://luma.com/techwednesdays) _(Free • In-person meetup)_  
   Weekly tech community meetup for networking and learning.
 
-### Documentation & Writing
+### 📄 Documentation & Writing
 
 - [**Diátaxis**](https://diataxis.fr/) _(Free • Documentation framework)_  
   Structure for writing clear, purposeful documentation.
@@ -18,7 +18,7 @@
 - [**Stack Exchange**](https://stackexchange.com/sites#oldest) _(Free • Q&A platform)_  
   Practice concise technical communication and problem-solving.
 
-### Learning Platforms
+### 🧠 Learning Platforms
 
 - [**Laracasts**](https://laracasts.com/series) _(Freemium • Video course platform)_  
   High-quality tutorials for frontend and backend; many free series.  
@@ -30,7 +30,7 @@
 - [**Eloquent JavaScript**](https://eloquentjavascript.net/) _(Free • Online textbook)_  
   Highly regarded JavaScript book covering fundamentals and advanced concepts.
 
-### Developer Tools & References
+### 🔨 Developer Tools & References
 
 - [**CSS-Tricks**](https://css-tricks.com/) _(Free • Article library + reference)_  
   Guides, examples, and CSS documentation.
@@ -38,7 +38,7 @@
 - [**Oh Shit, Git!**](https://ohshitgit.com/) _(Free • Git guide)_  
   Quick fixes for common Git mistakes.
 
-### Photo Compression
+### 🏞️ Photo Compression
 
 - [**Bulk Resize Photos**](https://bulkresizephotos.com/en) _(Free • Photo compression tool)_
   Bulk optimize photos with multiple resizing rules.
@@ -46,11 +46,14 @@
 - [**Squoosh**](https://squoosh.app/) _(Free • Photo compression tool)_
   Best photo compression for more granular control.
 
+- [**SVG Minifier | Devina**](https://devina.io/svg-minifier) _(Free • SVG compression tool)_
+  Best single/bulk SVG compression.
+
 ---
 
-## Web Design
+## 🖌️ Web Design
 
-### Design Knowledge
+### 🧠 Design Knowledge
 
 - [**Don’t Make Me Think**](https://sensible.com/dont-make-me-think/) _(Paid • Book)_  
   Foundational UX and usability principles.
@@ -61,7 +64,7 @@
 - [**Laws of UX**](https://lawsofux.com/) _(Free • Online resource)_  
   Psychology-based UX design principles.
 
-### Color Tools
+### 🎨 Color Tools
 
 - [**Paletton**](https://paletton.com/) _(Free • Palette generator)_
   Palette generation, harmonies, and accessibility checks.
@@ -78,7 +81,7 @@
 - [**Figma Color Palette Generator**](https://www.figma.com/color-palette-generator/) _(Free • Plugin/tool)_  
   Generate palettes within Figma.
 
-### Typography
+### ⌨️ Typography
 
 - [**Google Fonts**](https://fonts.google.com/) _(Free • Font library)_  
   Large collection of open-source fonts.
@@ -86,7 +89,7 @@
 - [**Fontshare**](https://www.fontshare.com/) _(Free • Font library)_  
   High-quality modern typefaces.
 
-### Icons
+### 🔍 Icons
 
 - [**Heroicons**](https://heroicons.com/) _(Free • Icon set)_  
   Clean SVG icons for interfaces.
@@ -97,7 +100,7 @@
 - [**The Noun Project**](https://thenounproject.com/) _(Freemium • Icon marketplace)_  
   Millions of icons; free with attribution.
 
-### Component & Layout Libraries
+### 📚 Component & Layout Libraries
 
 - [**Landing Folio Library**](https://www.landingfolio.com/library/global) _(Free • Component inspiration)_  
   Real-world UI components and layouts.
@@ -105,7 +108,7 @@
 - [**Material Design Components**](https://m3.material.io/components) _(Free • UI framework)_  
   Google’s component system and design guidelines.
 
-### Inspiration
+### ✨ Inspiration
 
 - [**Pinterest**](https://pinterest.com/) _(Free • Visual discovery)_  
   Broad design inspiration.
@@ -151,7 +154,7 @@
 - [**Wow-web**](https://wow-web.co.uk/) _(Free • Gallery)_  
   A curated selection of the most visually stunning websites.
 
-### Stock Photos & Graphics
+### 📷 Stock Photos & Graphics
 
 - [**Unsplash**](https://unsplash.com/) _(Free • Stock photos)_  
   High-resolution images.
@@ -165,12 +168,12 @@
 - [**Graphic Burger**](https://graphicburger.com/) _(Free • Design assets)_  
   Mockups, UI kits, and templates.
 
-### Maps & Visuals
+### 🗺️ Maps & Visuals
 
 - [**Snazzy Maps**](https://snazzymaps.com/) _(Free • Map styling tool)_  
   Custom styles for Google Maps embeds.
 
-### Animation & Interaction
+### 🔆 Animation & Interaction
 
 - [**Codrops (Tympanus)**](https://tympanus.net/codrops/) _(Free • Tutorials & demos)_  
   Advanced UI animations and interactive patterns.
@@ -178,7 +181,7 @@
 - [**Slider Revolution Hover Effects**](https://www.sliderrevolution.com/resources/css-button-hover-effects/) _(Free • CSS examples)_  
   Prebuilt button hover animations.
 
-### Graphics Tools
+### ✏️ Graphics Tools
 
 - [**Photopea**](https://www.photopea.com/) _(Free • Online graphics editor)_  
   Browser-based Photoshop alternative.
