@@ -159,6 +159,12 @@
 - [**Unsplash**](https://unsplash.com/) _(Free • Stock photos)_  
   High-resolution images.
 
+- [**Resource Boy**](https://resourceboy.com/) _(Free/Paid • Visual Resources)_  
+  Mockups, textures, graphics, many of which are free.
+
+- [**Indieground**](https://indieground.net/) _(Free/Paid • Visual Resources)_  
+  Fonts, textures, mockups. Be sure to check out their [freebies section](https://indieground.net/shop-category/freebies/)!
+
 - [**Pexels**](https://www.pexels.com/) _(Free • Photos & videos)_  
   Free stock photography and video clips.
 
@@ -186,5 +192,5 @@
 - [**Photopea**](https://www.photopea.com/) _(Free • Online graphics editor)_  
   Browser-based Photoshop alternative.
 
-- [**Affinity Suite**](https://affinity.serif.com/) _(Paid • Desktop applications)_  
-  Professional design tools; one-time purchase. _(AI features through Canva)_
+- [**Affinity**](https://affinity.serif.com/) _(Free • Desktop application)_  
+  Professional design tool. _(AI features through Canva)_
