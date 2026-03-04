@@ -63,6 +63,9 @@
 
 ### Color Tools
 
+- [**Paletton**](https://paletton.com/) _(Free • Palette generator)_
+  Palette generation, harmonies, and accessibility checks.
+
 - [**Color Review**](https://color.review/) _(Free • Accessibility checker)_  
   WCAG contrast testing.
 
